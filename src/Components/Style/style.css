@@ -1,0 +1,48 @@
+.btn-color{
+  background-color: #0e1c36;
+  color: #fff;
+  
+}
+
+.profile-image-pic{
+  height: 160px;
+  width: 160px;
+  object-fit: cover;
+}
+
+.flex-parent {
+  display: flex;
+}
+
+.jc-center {
+  justify-content: center;
+}
+
+.cardbody-color{
+  background-color: #ebf2fa;
+}
+
+a{
+  text-decoration: none;
+}
+.navbar-custom {
+  background-color: #0e1c36;
+  color: #fff;
+
+}
+.card-horizontal {
+  display: flex;
+  flex: 1 1 auto;
+}
+
+#list1 .form-control {
+  border-color: transparent;
+  }
+  #list1 .form-control:focus {
+  border-color: transparent;
+  box-shadow: none;
+  }
+  #list1 .select-input.form-control[readonly]:not([disabled]) {
+  background-color: #fbfbfb;
+  }
+
